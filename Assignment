@@ -1,0 +1,14 @@
+CountryAPI
+Estonia/Latvia/Lithuania
+https://restcountries.com/v2/name/estonia
+Rakendus võimaldab kasutajal valida riiki ja siis kuvab riigi kohta järgmist infot:Name
+Top Level Domain
+Calling Code
+Capital
+Region
+Subregion
+Population
+Timezone
+Language in a full word in English
+Currency code, name and symbol
+Flag image
