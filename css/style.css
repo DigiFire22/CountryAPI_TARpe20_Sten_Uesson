@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: gray;
+}
+
+hr{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.Country_Info{
+    margin-left: 2rem;
+}
+
+.Country_Container{
+    margin: 2rem;
+}
